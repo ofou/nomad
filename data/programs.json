@@ -1,0 +1,148 @@
+[
+  {
+    "id": "aus-whv",
+    "name": "Australia Working Holiday Visa",
+    "country": "Australia",
+    "type": "Working Holiday",
+    "duration": "12 months",
+    "age_limit": "18-30",
+    "eligible_nationalities": ["United Kingdom", "Canada", "Germany", "France", "Italy", "Netherlands", "Sweden", "Norway", "Denmark", "Finland", "Belgium", "Ireland", "Japan", "South Korea", "Taiwan", "Hong Kong", "Singapore", "Malaysia", "Thailand", "Indonesia", "Philippines", "Vietnam", "Chile", "Argentina", "Uruguay", "Peru", "Ecuador", "Colombia", "Brazil", "Mexico", "United States"],
+    "requirements": [
+      "Valid passport",
+      "Sufficient funds (AUD 5,000)",
+      "Health insurance",
+      "No dependent children",
+      "Clean criminal record"
+    ],
+    "benefits": [
+      "Work and travel for up to 12 months",
+      "Extend for second year if regional work completed",
+      "Access to healthcare",
+      "Multiple entries allowed"
+    ],
+    "application_fee": "AUD 495",
+    "processing_time": "2-4 weeks",
+    "description": "The Working Holiday Visa allows young people to have an extended holiday in Australia and to supplement their funds through incidental employment."
+  },
+  {
+    "id": "nz-whv",
+    "name": "New Zealand Working Holiday Visa",
+    "country": "New Zealand",
+    "type": "Working Holiday",
+    "duration": "12 months",
+    "age_limit": "18-30",
+    "eligible_nationalities": ["United Kingdom", "Canada", "Germany", "France", "Italy", "Netherlands", "Sweden", "Norway", "Denmark", "Finland", "Belgium", "Ireland", "Japan", "South Korea", "Taiwan", "Hong Kong", "Singapore", "Malaysia", "Thailand", "Indonesia", "Philippines", "Vietnam", "Chile", "Argentina", "Uruguay", "Peru", "Ecuador", "Colombia", "Brazil", "Mexico", "United States"],
+    "requirements": [
+      "Valid passport",
+      "Sufficient funds (NZD 4,200)",
+      "Health insurance",
+      "No dependent children",
+      "Clean criminal record"
+    ],
+    "benefits": [
+      "Work and travel for up to 12 months",
+      "Extend for second year if horticulture work completed",
+      "Access to healthcare",
+      "Multiple entries allowed"
+    ],
+    "application_fee": "NZD 495",
+    "processing_time": "1-3 weeks",
+    "description": "The Working Holiday Visa allows young people to work and travel in New Zealand for up to 12 months."
+  },
+  {
+    "id": "can-iec",
+    "name": "Canada International Experience Canada",
+    "country": "Canada",
+    "type": "Working Holiday",
+    "duration": "12-24 months",
+    "age_limit": "18-35",
+    "eligible_nationalities": ["United Kingdom", "Australia", "Germany", "France", "Italy", "Netherlands", "Sweden", "Norway", "Denmark", "Finland", "Belgium", "Ireland", "Japan", "South Korea", "Taiwan", "Hong Kong", "Singapore", "Malaysia", "Thailand", "Indonesia", "Philippines", "Vietnam", "Chile", "Argentina", "Uruguay", "Peru", "Ecuador", "Colombia", "Brazil", "Mexico", "New Zealand"],
+    "requirements": [
+      "Valid passport",
+      "Sufficient funds (CAD 2,500)",
+      "Health insurance",
+      "No dependent children",
+      "Clean criminal record"
+    ],
+    "benefits": [
+      "Work and travel for up to 24 months",
+      "Extend for additional year",
+      "Access to healthcare",
+      "Multiple entries allowed"
+    ],
+    "application_fee": "CAD 150",
+    "processing_time": "2-8 weeks",
+    "description": "The International Experience Canada program allows young people to work and travel in Canada for up to 24 months."
+  },
+  {
+    "id": "uk-youth-mobility",
+    "name": "UK Youth Mobility Scheme",
+    "country": "United Kingdom",
+    "type": "Working Holiday",
+    "duration": "24 months",
+    "age_limit": "18-30",
+    "eligible_nationalities": ["Australia", "Canada", "Japan", "Monaco", "New Zealand", "San Marino", "Iceland", "Hong Kong", "South Korea", "Taiwan"],
+    "requirements": [
+      "Valid passport",
+      "Sufficient funds (GBP 2,530)",
+      "No dependent children",
+      "Clean criminal record"
+    ],
+    "benefits": [
+      "Work and travel for up to 24 months",
+      "Access to National Health Service",
+      "Multiple entries allowed"
+    ],
+    "application_fee": "GBP 259",
+    "processing_time": "3-6 weeks",
+    "description": "The Youth Mobility Scheme allows young people from participating countries to live and work in the UK for up to 24 months."
+  },
+  {
+    "id": "japan-working-holiday",
+    "name": "Japan Working Holiday Visa",
+    "country": "Japan",
+    "type": "Working Holiday",
+    "duration": "12 months",
+    "age_limit": "18-30",
+    "eligible_nationalities": ["Australia", "Canada", "Germany", "France", "Italy", "Netherlands", "Sweden", "Norway", "Denmark", "Finland", "Belgium", "Ireland", "United Kingdom", "South Korea", "Taiwan", "Hong Kong", "Singapore", "Malaysia", "Thailand", "Indonesia", "Philippines", "Vietnam", "Chile", "Argentina", "Uruguay", "Peru", "Ecuador", "Colombia", "Brazil", "Mexico", "New Zealand"],
+    "requirements": [
+      "Valid passport",
+      "Sufficient funds (JPY 300,000)",
+      "Health insurance",
+      "No dependent children",
+      "Clean criminal record"
+    ],
+    "benefits": [
+      "Work and travel for up to 12 months",
+      "Access to healthcare",
+      "Multiple entries allowed"
+    ],
+    "application_fee": "Free",
+    "processing_time": "1-2 weeks",
+    "description": "The Working Holiday Visa allows young people to work and travel in Japan for up to 12 months."
+  },
+  {
+    "id": "south-korea-working-holiday",
+    "name": "South Korea Working Holiday Visa",
+    "country": "South Korea",
+    "type": "Working Holiday",
+    "duration": "12 months",
+    "age_limit": "18-30",
+    "eligible_nationalities": ["Australia", "Canada", "Germany", "France", "Italy", "Netherlands", "Sweden", "Norway", "Denmark", "Finland", "Belgium", "Ireland", "United Kingdom", "Japan", "Taiwan", "Hong Kong", "Singapore", "Malaysia", "Thailand", "Indonesia", "Philippines", "Vietnam", "Chile", "Argentina", "Uruguay", "Peru", "Ecuador", "Colombia", "Brazil", "Mexico", "New Zealand"],
+    "requirements": [
+      "Valid passport",
+      "Sufficient funds (KRW 3,000,000)",
+      "Health insurance",
+      "No dependent children",
+      "Clean criminal record"
+    ],
+    "benefits": [
+      "Work and travel for up to 12 months",
+      "Access to healthcare",
+      "Multiple entries allowed"
+    ],
+    "application_fee": "Free",
+    "processing_time": "1-2 weeks",
+    "description": "The Working Holiday Visa allows young people to work and travel in South Korea for up to 12 months."
+  }
+]
