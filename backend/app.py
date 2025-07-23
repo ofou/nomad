@@ -77,10 +77,10 @@ class WorkHolidayHandler(BaseHTTPRequestHandler):
         return programs
 
 def run_server():
-    server_address = ('', 5000)
+    server_address = ('', 5001)
     httpd = HTTPServer(server_address, WorkHolidayHandler)
     print("🚀 Starting Work & Holiday Platform Backend...")
-    print("🌐 Server running at: http://localhost:5000")
+    print("🌐 Server running at: http://localhost:5001")
     print("📡 API endpoints:")
     print("   - GET /api/nationalities")
     print("   - GET /api/programs?nationality=<country>")
