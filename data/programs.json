@@ -1,0 +1,121 @@
+[
+  {
+    "id": 1,
+    "country": "Australia",
+    "title": "Working Holiday Visa (subclass 417)",
+    "description": "The Working Holiday visa allows young people to have an extended holiday and work in Australia to fund their stay. You can work for up to 6 months with one employer and study for up to 4 months.",
+    "duration": "12 months",
+    "requirements": [
+      "Be aged 18-30 years old",
+      "Hold a passport from an eligible country",
+      "Have sufficient funds (AUD $5,000)",
+      "Meet health and character requirements",
+      "Not be accompanied by dependent children"
+    ],
+    "eligibleCountries": [
+      "Belgium", "Canada", "Cyprus", "Denmark", "Estonia", "Finland", "France", 
+      "Germany", "Hong Kong", "Ireland", "Italy", "Japan", "Korea", "Malta", 
+      "Netherlands", "Norway", "Sweden", "Taiwan", "United Kingdom"
+    ],
+    "ageLimit": "18-30 years",
+    "website": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/work-holiday-417",
+    "createdAt": "2024-01-15"
+  },
+  {
+    "id": 2,
+    "country": "New Zealand",
+    "title": "Working Holiday Visa",
+    "description": "Work and travel in New Zealand for up to 12 months. Experience the stunning landscapes, adventure activities, and friendly culture while earning money to support your travels.",
+    "duration": "12 months",
+    "requirements": [
+      "Be aged 18-30 years old (35 for some countries)",
+      "Hold a passport from an eligible country",
+      "Have sufficient funds (NZD $4,200)",
+      "Have return ticket or sufficient funds",
+      "Meet health and character requirements"
+    ],
+    "eligibleCountries": [
+      "Argentina", "Austria", "Belgium", "Brazil", "Canada", "Chile", "China", 
+      "Czech Republic", "Denmark", "Estonia", "Finland", "France", "Germany", 
+      "Hong Kong", "Hungary", "Ireland", "Israel", "Italy", "Japan", "Korea", 
+      "Latvia", "Lithuania", "Malaysia", "Malta", "Mexico", "Netherlands", 
+      "Norway", "Peru", "Philippines", "Poland", "Portugal", "Singapore", 
+      "Slovakia", "Slovenia", "Spain", "Sweden", "Taiwan", "Thailand", 
+      "Turkey", "United Kingdom", "United States", "Uruguay"
+    ],
+    "ageLimit": "18-30 years (35 for Canada and UK)",
+    "website": "https://www.immigration.govt.nz/new-zealand-visas/apply-for-a-visa/about-visa/working-holiday-visa",
+    "createdAt": "2024-01-15"
+  },
+  {
+    "id": 3,
+    "country": "Canada",
+    "title": "International Experience Canada (IEC)",
+    "description": "Work and travel in Canada for up to 12-24 months depending on your country. Gain valuable work experience while exploring Canada's diverse cities and natural beauty.",
+    "duration": "12-24 months",
+    "requirements": [
+      "Be aged 18-35 years old",
+      "Be a citizen of an eligible country",
+      "Have sufficient funds (CAD $2,500)",
+      "Have valid medical insurance",
+      "Meet health and security requirements"
+    ],
+    "eligibleCountries": [
+      "Australia", "Austria", "Belgium", "Chile", "Costa Rica", "Croatia", 
+      "Czech Republic", "Denmark", "Estonia", "France", "Germany", "Greece", 
+      "Hong Kong", "Ireland", "Italy", "Japan", "Korea", "Latvia", "Lithuania", 
+      "Luxembourg", "Netherlands", "New Zealand", "Norway", "Poland", "Portugal", 
+      "Slovakia", "Slovenia", "Spain", "Sweden", "Switzerland", "Taiwan", 
+      "Ukraine", "United Kingdom"
+    ],
+    "ageLimit": "18-35 years",
+    "website": "https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/iec.html",
+    "createdAt": "2024-01-15"
+  },
+  {
+    "id": 4,
+    "country": "Japan",
+    "title": "Working Holiday Visa",
+    "description": "Experience Japanese culture, language, and work opportunities for up to 12 months. Perfect for those interested in Japanese culture, technology, and unique work experiences.",
+    "duration": "12 months",
+    "requirements": [
+      "Be aged 18-30 years old",
+      "Be a citizen of an eligible country",
+      "Have sufficient funds (equivalent to ¥250,000)",
+      "Have return ticket or funds for purchase",
+      "Submit detailed application with motivation letter"
+    ],
+    "eligibleCountries": [
+      "Australia", "Austria", "Canada", "Chile", "Czech Republic", "Denmark", 
+      "France", "Germany", "Hong Kong", "Hungary", "Iceland", "Ireland", 
+      "Korea", "Lithuania", "Netherlands", "New Zealand", "Norway", "Poland", 
+      "Portugal", "Slovakia", "Spain", "Sweden", "Taiwan", "United Kingdom"
+    ],
+    "ageLimit": "18-30 years",
+    "website": "https://www.mofa.go.jp/j_info/visit/w_holiday/index.html",
+    "createdAt": "2024-01-15"
+  },
+  {
+    "id": 5,
+    "country": "South Korea",
+    "title": "Working Holiday Visa (H-1)",
+    "description": "Live and work in South Korea for up to 12 months. Immerse yourself in Korean culture, learn the language, and experience the dynamic blend of traditional and modern life.",
+    "duration": "12 months",
+    "requirements": [
+      "Be aged 18-30 years old",
+      "Be a citizen of an eligible country",
+      "Have sufficient funds (USD $3,000 equivalent)",
+      "Have health insurance",
+      "Submit application with required documents"
+    ],
+    "eligibleCountries": [
+      "Australia", "Austria", "Belgium", "Canada", "Chile", "Czech Republic", 
+      "Denmark", "France", "Germany", "Hong Kong", "Hungary", "Ireland", 
+      "Israel", "Italy", "Japan", "Netherlands", "New Zealand", "Poland", 
+      "Portugal", "Spain", "Sweden", "Taiwan", "United Kingdom", "United States"
+    ],
+    "ageLimit": "18-30 years",
+    "website": "https://www.hikorea.go.kr/",
+    "createdAt": "2024-01-15"
+  }
+]
